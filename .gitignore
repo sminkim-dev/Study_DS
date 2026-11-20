@@ -18,3 +18,7 @@ Release/
 .vscode/
 *.suo
 *.user
+
+# clang or clang++ (g++, gcc 포함) 해당 컴파일러로 컴파일한 파일은 위에서 안걸림.
+# 빌드 디렉토리에서 따로 관리 후 추적해제.
+/build/
