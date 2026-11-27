@@ -1,5 +1,5 @@
-# Study Data Struct
-### Example code for class exercises
+# Study Data Struct  
+Practice Code and Personal Study.  
 
 ---
 # List
